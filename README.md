@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ukanuk_wplangtools&metric=alert_status)](https://sonarcloud.io/dashboard?id=ukanuk_wplangtools)
+
 # wplangtools
  Wikipedia langauge tools: easily extract article titles from Wikipedia across languages
 
